@@ -1,0 +1,19 @@
+# Archivos del servidor
+server/
+bedrock-server.zip
+temp_addon/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
